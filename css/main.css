@@ -22,8 +22,8 @@ html {
   width: 14px;
   position: absolute;
   left: 47%;
-  top: 50%;
-  transform-origin: top center;
+  bottom: 50%;
+  transform-origin: bottom center;
 }
 
 .hand-hour {
