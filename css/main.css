@@ -33,7 +33,7 @@ html {
 
 .hand-minute {
   z-index: 2;
-  animation: spin 0.6s infinite linear;
+  animation: spin .6s infinite linear;
 }
 
 @keyframes spin {
